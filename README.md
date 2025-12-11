@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1421d7&height=240&text=Hello%20World&animation=&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Welcome to my page </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #361E9C;"> Welcome to my page </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I’m a student living in Seoul, currently studying in the Department of Data Science at Kwangwoon University.</li>My academic focus lies in machine learning, artificial intelligence, and data analysis.</li>I’m passionate about understanding how data and algorithms can be used to solve real world problems.</li>Through my studies, I aim to build strong analytical and technical skills.</li>I’m constantly exploring new ways to apply AI and data science to create meaningful impact. </div> 
     </div>
     <div style="text-align: left;">
