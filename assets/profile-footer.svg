@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="74" viewBox="0 0 1120 74" role="img" aria-labelledby="title">
+  <title id="title">Observe. Experiment. Understand.</title>
+  <rect width="1120" height="74" fill="#f3eddf"/>
+  <path d="M40 37H275M845 37H1080" stroke="#bbac94" stroke-width="0.8"/>
+  <path d="M284 37L288 33L292 37L288 41Z M828 37L832 33L836 37L832 41Z" fill="#95634f"/>
+  <text x="560" y="43" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#6b5946">Observe. Experiment. Understand.</text>
+</svg>
