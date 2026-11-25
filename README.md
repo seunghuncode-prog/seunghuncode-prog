@@ -1,22 +1,16 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Seung Hun Ji — Data Science, Machine Learning &amp; AI. Notes and experiments." />
+  <img src="assets/profile-header.svg" width="100%" alt="Seung Hun Ji — Medical AI." />
 </p>
 
-### A little background
+### About
 
-I'm **Seung Hun Ji**, a Data Science student at **Kwangwoon University**, based in Seoul.
+I'm **Seung Hun Ji**, a Data Science student at **Kwangwoon University** in Seoul, focused on **Medical AI**.
 
-I explore how models learn from data, retrieve useful knowledge, and make recommendations. I care about thoughtful experiments, reproducible results, and clear explanations.
+I work on models that turn messy medical data into something clinicians and researchers can trust — careful experiments, reproducible results, and explanations that hold up.
 
-### Current interests
+### Toolkit
 
-- **Tabular learning** — feature selection and learning from small datasets.
-- **Knowledge & retrieval** — knowledge graphs, RAG, and grounded language models.
-- **Recommendation & evaluation** — matching information to people and testing what works.
-
-### The toolkit
-
-| Area | Tools I work with |
+| Area | Tools |
 | :--- | :--- |
 | Analysis & modeling | Python · Pandas · scikit-learn · Jupyter |
 | AI & retrieval | TabPFN · LangGraph · LlamaIndex · ChromaDB · Neo4j |
@@ -26,5 +20,5 @@ I explore how models learn from data, retrieve useful knowledge, and make recomm
 <br />
 
 <p align="center">
-  <img src="assets/profile-footer.svg" width="100%" alt="Observe. Experiment. Understand." />
+  <img src="assets/profile-footer.svg" width="100%" alt="Observe. Measure. Understand." />
 </p>
