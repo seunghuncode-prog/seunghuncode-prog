@@ -1,19 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="84" viewBox="0 0 1120 84" role="img" aria-labelledby="title desc">
-  <title id="title">Observe. Experiment. Understand.</title>
-  <desc id="desc">A navy comic-print strip with cyan, purple and magenta geometric accents.</desc>
-  <defs>
-    <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.4" fill="#060e1b"/>
-    </pattern>
-  </defs>
-  <rect width="1120" height="84" fill="#112c46"/>
-  <path d="M0 0H218L177 29L194 45L129 84H0Z" fill="#6438ff" stroke="#060e1b" stroke-width="5"/>
-  <path d="M0 0H103L146 24L116 40L154 62L128 84H0Z" fill="#dc176f"/>
-  <path d="M0 0H218L177 29L194 45L129 84H0Z" fill="url(#dots)" opacity="0.8"/>
-  <path d="M990 0H1120V84H905L947 57L926 36Z" fill="#18bcca" stroke="#060e1b" stroke-width="5"/>
-  <path d="M1042 0H1120V84H994L1026 59L1009 32Z" fill="#6438ff"/>
-  <path d="M990 0H1120V84H905L947 57L926 36Z" fill="url(#dots)" opacity="0.7"/>
-  <path d="M251 33H268V50H251Z M852 33H869V50H852Z" fill="#ffe45c" stroke="#060e1b" stroke-width="3" transform="rotate(-4 560 42)"/>
-  <text x="562" y="53" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="900" font-style="italic" fill="#e51670">OBSERVE. EXPERIMENT. UNDERSTAND.</text>
-  <text x="560" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="900" font-style="italic" fill="#fff4d7">OBSERVE. EXPERIMENT. UNDERSTAND.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="72" viewBox="0 0 1120 72" role="img" aria-labelledby="title">
+  <title id="title">Observe. Measure. Understand.</title>
+  <rect width="1120" height="72" rx="12" fill="#3a3a3a"/>
+  <text x="560" y="41" text-anchor="middle" fill="#d6d6d6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3">OBSERVE · MEASURE · UNDERSTAND</text>
 </svg>
